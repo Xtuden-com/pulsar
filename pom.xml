@@ -103,7 +103,7 @@ flexible messaging model and an intuitive client API.</description>
     <netty.version>4.1.51.Final</netty.version>
     <netty-tc-native.version>2.0.30.Final</netty-tc-native.version>
     <jetty.version>9.4.33.v20201020</jetty.version>
-    <jersey.version>2.31</jersey.version>
+    <jersey.version>2.34</jersey.version>
     <athenz.version>1.8.38</athenz.version>
     <prometheus.version>0.5.0</prometheus.version>
     <aspectj.version>1.9.2</aspectj.version>
@@ -163,7 +163,7 @@ flexible messaging model and an intuitive client API.</description>
     <commons-lang3.version>3.6</commons-lang3.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-io.version>2.5</commons-io.version>
-    <commons-codec.version>1.10</commons-codec.version>
+    <commons-codec.version>1.13</commons-codec.version>
     <javax.ws.rs-api.version>2.1</javax.ws.rs-api.version>
     <log4j.version>1.2.17</log4j.version>
     <hdrHistogram.version>2.1.9</hdrHistogram.version>
