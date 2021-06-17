@@ -134,7 +134,7 @@ flexible messaging model and an intuitive client API.</description>
     <kafka-client.version>2.3.0</kafka-client.version>
     <rabbitmq-client.version>5.1.1</rabbitmq-client.version>
     <aws-sdk.version>1.11.774</aws-sdk.version>
-    <avro.version>1.9.1</avro.version>
+    <avro.version>1.10.0</avro.version>
     <joda.version>2.10.1</joda.version>
     <jclouds.version>2.2.1</jclouds.version>
     <sqlite-jdbc.version>3.8.11.2</sqlite-jdbc.version>
@@ -158,12 +158,12 @@ flexible messaging model and an intuitive client API.</description>
     <confluent.version>5.3.2</confluent.version>
     <kafka-avro-convert-jackson.version>1.9.13</kafka-avro-convert-jackson.version>
     <aircompressor.version>0.16</aircompressor.version>
-    <asynchttpclient.version>2.12.1</asynchttpclient.version>
+    <asynchttpclient.version>2.12.2</asynchttpclient.version>
     <jcommander.version>1.78</jcommander.version>
     <commons-lang3.version>3.6</commons-lang3.version>
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-io.version>2.5</commons-io.version>
-    <commons-codec.version>1.10</commons-codec.version>
+    <commons-codec.version>1.13</commons-codec.version>
     <javax.ws.rs-api.version>2.1</javax.ws.rs-api.version>
     <log4j.version>1.2.17</log4j.version>
     <hdrHistogram.version>2.1.9</hdrHistogram.version>
