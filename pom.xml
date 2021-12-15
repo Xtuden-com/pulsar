@@ -181,7 +181,7 @@ flexible messaging model and an intuitive client API.</description>
     <kubernetesclient.version>9.0.2</kubernetesclient.version>
 
     <!-- test dependencies -->
-    <cassandra.version>3.6.0</cassandra.version>
+    <cassandra.version>4.0.0</cassandra.version>
     <disruptor.version>3.4.0</disruptor.version>
     <testcontainers.version>1.14.3</testcontainers.version>
     <kerby.version>1.1.1</kerby.version>
