@@ -105,13 +105,13 @@ flexible messaging model and an intuitive client API.</description>
     <jetty.version>9.4.33.v20201020</jetty.version>
     <jersey.version>2.31</jersey.version>
     <athenz.version>1.8.38</athenz.version>
-    <prometheus.version>0.5.0</prometheus.version>
+    <prometheus.version>0.13.0</prometheus.version>
     <aspectj.version>1.9.2</aspectj.version>
     <vertx.version>3.5.3</vertx.version>
     <rocksdb.version>6.10.2</rocksdb.version>
     <slf4j.version>1.7.25</slf4j.version>
     <commons.collections.version>3.2.2</commons.collections.version>
-    <log4j2.version>2.10.0</log4j2.version>
+    <log4j2.version>2.17.0</log4j2.version>
     <bouncycastle.version>1.66</bouncycastle.version>
     <bouncycastlefips.version>1.0.2</bouncycastlefips.version>
     <jackson.version>2.11.1</jackson.version>
