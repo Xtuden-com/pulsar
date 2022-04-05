@@ -34,9 +34,9 @@
     <version>2.7.0-SNAPSHOT</version>
 
     <properties>
-        <jersey.version>2.31</jersey.version>
+        <jersey.version>2.34</jersey.version>
         <presto.version>332</presto.version>
-        <jersey.version>2.31</jersey.version>
+        <jersey.version>2.34</jersey.version>
         <airlift.version>0.170</airlift.version>
         <objenesis.version>2.6</objenesis.version>
         <objectsize.version>0.0.12</objectsize.version>
@@ -44,7 +44,7 @@
         <!-- Launcher properties -->
         <main-class>io.prestosql.server.PrestoServer</main-class>
         <process-name>${project.artifactId}</process-name>
-        <jackson.version>2.11.1</jackson.version>
+        <jackson.version>2.13.2</jackson.version>
         <!--fix Security Vulnerabilities-->
         <!--https://www.cvedetails.com/vulnerability-list/vendor_id-15866/product_id-42991/Fasterxml-Jackson-databind.html-->
         <jackson.databind.version>2.11.1</jackson.databind.version>
