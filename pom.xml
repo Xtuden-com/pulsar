@@ -185,7 +185,7 @@ flexible messaging model and an intuitive client API.</description>
     <disruptor.version>3.4.0</disruptor.version>
     <testcontainers.version>1.14.3</testcontainers.version>
     <kerby.version>1.1.1</kerby.version>
-    <testng.version>7.3.0</testng.version>
+    <testng.version>7.7.0</testng.version>
     <mockito.version>3.0.0</mockito.version>
     <powermock.version>2.0.9</powermock.version>
     <javassist.version>3.25.0-GA</javassist.version>
